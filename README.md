@@ -1,6 +1,8 @@
 # MPO-to-Spatial
 Converts Fujifilm MPO stereo photos to Vision Pro Spatial photos 
 
+Note: this works on MacOS only (the main limitation is due to [Spatial Video Tools](https://blog.mikeswanson.com/spatial/)) being MacOS only)
+
 ## What it does
 This script is made to convert Fujifilm finepix W3 3D camera MPO files to Apple Vision Pro Spatial photos.
 

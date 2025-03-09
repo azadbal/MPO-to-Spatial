@@ -157,7 +157,7 @@ else
         echo "[$count/$total_sbs] Processing: $file"
         count=$((count + 1))
 
-        out_file="$SPATIAL_DIR/$(basename "$file")"
+        out_file="$SPATIAL_DIR/$(basename "$file" .jpg).HEIC"
 
         spatial make \
             -i "$file" \

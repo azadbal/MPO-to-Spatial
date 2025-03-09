@@ -24,10 +24,10 @@ It uses:
 The script assumes you have a folder of MPO files in a root directory. It will create converted 3d photos in this format and directory:
 
 
-└── root/
-    ├── MPO (this is where your input images should be)
-    ├── SBS
-    └── Spatial
+* root/
+	* MPO (this is where your input images should be)
+	* SBS
+	* Spatial
 
 
 
